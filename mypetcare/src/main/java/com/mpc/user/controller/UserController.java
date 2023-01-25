@@ -4,5 +4,7 @@ public class UserController {
 	private String userId;
 
 	public String userPw;
+
 	public String userAddress;
+
 }
